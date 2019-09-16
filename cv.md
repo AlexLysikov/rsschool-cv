@@ -3,12 +3,10 @@
 
 ## Contact me:
 
-
  **github:** |   **phone:**  |        **e-mail:**        |**telegram:** |  **linkedIn:**
 -------------|---------------|---------------------------|--------------|---------------
 @AlexLysikov | +375297791764 | alex.lysikov.82@gmail.com | @AlexLysikov | alex-lysikov
 
- 
 
 ## Summary:
 
@@ -25,6 +23,7 @@
     - *highly self-motivated and adaptable to learning and understanding new technologies*
     - *ability to create simple, clean, maintainable, efficient code using standard design patterns to good effect*
     - *being able to read and write technical English, as well as being able to stand a basic English conversation with customers, colleagues, and partners*
+
 
 ## My scills:
 
