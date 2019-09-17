@@ -37,14 +37,14 @@ Agile / Scrum | elementary
 
 ### Soft scills:
 
-                                SCILL                                |              RATING
----------------------------------------------------------------------|-----------------------------------
-    Analytics / Critical Thinking                                    |             advanced
-    Multitasking                                                     |              medium
-    Communication / Teamwork                                         |             advanced
-    Creativity                                                       |               good
-    Attention to Detail                                              |               good
-    Responsibility / Follow to deadline                              |             advanced
+SCILL | RATING       
+----- | ------
+Analytics / Critical Thinking | advanced
+Multitasking | medium
+Communication / Teamwork | advanced
+Creativity | good
+Attention to Detail | good
+Responsibility / Follow to deadline | advanced
 
 
 ## EDUCATION
