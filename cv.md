@@ -21,23 +21,24 @@
 
 ## MY SCILLS
 
-### Technical scills:                  
-                                SCILL                                |              RATING
---------------------------------------------------------------------------------------------------------
-    HTML                                                             |               good
-    CSS                                                              |               basic
-    JavaScript                                                       |               basic
-    Git / Github                                                     |               basic
-    SQL                                                              |             elementary
-    React                                                            |             elementary
-    Adobe Photoshop / Figma                                          |               basic
-    Agile / Scrum                                                    |             elementary
+### Technical scills:
+
+SCILL | RATING       
+----- | ------
+HTML | good
+CSS | basic
+JavaScript | basic
+Git / Github | basic
+SQL | elementary
+React | elementary
+Adobe Photoshop / Figma | basic
+Agile / Scrum | elementary
 
 
 ### Soft scills:
 
                                 SCILL                                |              RATING
----------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------|-----------------------------------
     Analytics / Critical Thinking                                    |             advanced
     Multitasking                                                     |              medium
     Communication / Teamwork                                         |             advanced
