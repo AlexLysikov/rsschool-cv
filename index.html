@@ -14,8 +14,7 @@
         <h3>web developer</h3>
 
         <figure>
-            <img src="portrait.jpg" alt="Alex Lysikov's portrait">
-            <figcaption>Alex Lysikov's portrait</figcaption>
+            <img id="portrait" src="./assets/images/portrait.jpg" alt="Alex Lysikov's portrait">
         </figure> 
 
     </header>
@@ -25,7 +24,7 @@
     <main>
 
         <article>   
-            <section>
+            <section class="article-block">
                     <h2>SUMMARY:</h2>
                     
                     <ul>
@@ -55,7 +54,7 @@
                     </ul>
             </section>
 
-            <section>
+            <section class="article-block">
                 <h2>EDUCATION</h2>
                 <ul>
                     <li>
@@ -97,6 +96,8 @@
             </section>
         </article> 
         
+    <!-- side panel -->
+
         <aside>
             <h2>my scills</h2>
 
@@ -104,51 +105,51 @@
                 <h3>Technical scills:</h3>
 
                 <div class="scill">
-                    <p>HTML</p>
+                    <p class="scillname">HTML</p>
                     <progress value="80" max="100"></progress>
-                    <p>good</p>
+                    <p class="rank">good</p>
                 </div>
 
                 <div class="scill">
-                    <p>CSS</p>
+                    <p class="scillname">CSS</p>
                     <progress value="60" max="100"></progress>
-                    <p>basic</p>
+                    <p class="rank">basic</p>
                 </div>
                 
                 <div class="scill">
-                    <p>JavaScript</p>
+                    <p class="scillname">JavaScript</p>
                     <progress value="50" max="100"></progress>
-                    <p>basic</p>
+                    <p class="rank">basic</p>
                 </div>
 
                 <div class="scill">
-                    <p>Git / Github</p>
+                    <p class="scillname">Git / Github</p>
                     <progress value="45" max="100"></progress>
-                    <p>basic</p>
+                    <p class="rank">basic</p>
                 </div>
 
                 <div class="scill">
-                    <p>SQL</p>
+                    <p class="scillname">SQL</p>
                     <progress value="20" max="100"></progress>
-                    <p>elementary</p>
+                    <p class="rank">elementary</p>
                 </div>
                 
                 <div class="scill">
-                    <p>React</p>
+                    <p class="scillname">React</p>
                     <progress value="15" max="100"></progress>
-                    <p>elementary</p>
+                    <p class="rank">elementary</p>
                 </div>
 
                 <div class="scill">
-                    <p>Adobe Photoshop / Figma</p>
+                    <p class="scillname">Adobe Photoshop / Figma</p>
                     <progress value="50" max="100"></progress>
-                    <p>basic</p>
+                    <p class="rank">basic</p>
                 </div>
                 
                 <div class="scill">
-                    <p>Agile / Scrum</p>
+                    <p class="scillname">Agile / Scrum</p>
                     <progress value="20" max="100"></progress>
-                    <p>elementary</p>
+                    <p class="rank">elementary</p>
                 </div>
 
             </section>
@@ -157,47 +158,73 @@
                 <h3>Soft scills:</h3>
 
                 <div class="scill">
-                    <p>Analytics / Critical Thinking</p>
+                    <p class="scillname">Analytics / Critical Thinking</p>
                     <progress value="90" max="100"></progress>
-                    <p>advanced</p>
+                    <p class="rank">advanced</p>
                 </div>
 
                 <div class="scill">
-                    <p>Multitasking</p>
+                    <p class="scillname">Multitasking</p>
                     <progress value="60" max="100"></progress>
-                    <p>medium</p>
+                    <p class="rank">medium</p>
                 </div>
                 
                 <div class="scill">
-                    <p>Communication / Teamwork</p>
+                    <p class="scillname">Communication / Teamwork</p>
                     <progress value="90" max="100"></progress>
-                    <p>advanced</p>
+                    <p class="rank">advanced</p>
                 </div>
 
                 <div class="scill">
-                    <p>Creativity</p>
+                    <p class="scillname">Creativity</p>
                     <progress value="70" max="100"></progress>
-                    <p>good</p>
+                    <p class="rank">good</p>
                 </div>
 
                 <div class="scill">
-                    <p>Attention to Detail</p>
+                    <p class="scillname">Attention to Detail</p>
                     <progress value="65" max="100"></progress>
-                    <p>good</p>
+                    <p class="rank">good</p>
                 </div>
                 
                 <div class="scill">
-                    <p>Responsibility / Follow to deadline</p>
+                    <p class="scillname">Responsibility / Follow to deadline</p>
                     <progress value="95" max="100"></progress>
-                    <p>advanced</p>
+                    <p class="rank">advanced</p>
                 </div>
 
             </section>
         </aside>
     </main>
+
+    <!-- contacts -->
+
     <footer>
         <h2>CONTACT ME</h2>
-        
+        <address>
+            
+            <div class="contact">
+                <img src="./assets/images/icons/viber.svg" alt="phone" width="40px" height="40px">
+                <p>+375 29 779 17 64</p>
+            </div>
+
+            <div class="contact">
+                <img src="./assets/images/icons/gmail.svg" alt="gmail" width="40px" height="40px">
+                <p>alex.lysikov.82@gmail.com</p> 
+            </div>
+            
+            <div class="contact">
+                <img src="./assets/images/icons/github-logo.svg" alt="github" width="40px" height="40px">
+                <a href="https://github.com/AlexLysikov">@AlexLysikov</a> 
+            </div>
+
+            <div class="contact">
+                <img src="./assets/images/icons/telegram.svg" alt="telegram" width="40px" height="40px">
+                <a href="https://web.telegram.org/#/im?p=@AlexLysikov">@AlexLysikov</a> 
+            </div>
+            
+        </address>
     </footer>
+
 </body>
 </html>
