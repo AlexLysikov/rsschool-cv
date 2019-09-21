@@ -1,0 +1,143 @@
+@font-face {
+    font-family: "Roboto", "Arial", sans-serif;
+    src: url(./assets/fonts/Roboto-Regular.ttf);
+}
+
+* {
+    font-family: "Roboto", sans-serif;
+    color: rgb(100, 100, 100);
+}
+
+body {
+    width: 1024px;
+    margin: auto;
+    padding: 0;
+    background-image: url("./assets/images/background.png");
+}
+
+h2 {
+    text-transform: uppercase;
+}
+
+a {
+    color:green;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+header{
+    width: 80%;
+    display: flex;
+    margin: 0 auto;
+    background-color: white;
+    border-radius: 5px;
+}
+
+figure {
+    width: 20%;
+}
+
+.name {
+    width: 80%;
+}
+
+div.name h1, div.name h3 {
+    position: relative;
+    width: auto;
+    top: 30%;
+    text-align: center;
+}
+
+main {
+    display: flex;
+    width: 80%;
+    margin: 1vw auto;    
+}
+
+article {
+    width: 70%;
+    background-color: white;
+    border-radius: 5px;
+    padding: 3%;
+    line-height: 1.3;
+}
+
+aside {
+    width: 30%;
+    background-color: white;
+    border-radius: 5px;
+    margin-right: 1vw;
+    padding: 3%;
+}
+
+.group-of-scills {
+    background-color: rgba(230, 230, 230, 0.623);
+    border-radius: 5px;
+    padding: 5%;
+    margin-top: 3vh;
+}
+
+.group-of-scills h3 {
+    margin-bottom: 10%;
+}
+
+.scill {
+    background-color: rgba(199, 199, 199, 0.877);
+    border-radius: 5px;
+    margin: 5%;
+    padding: 2px 10px;
+}
+
+.scillname {
+    display: inline-block;
+    margin: 5px 0;
+    padding: 0;
+    font-weight: bold;
+}
+
+progress {
+    background-color: rgb(156, 127, 73);
+    box-sizing: content-box;
+    display: block;
+    width: 95%;
+}
+
+.rank {
+    margin: 5px 0;
+    padding: 0;
+    text-align: right;
+    font-size: 0.8rem;
+    margin-right: 5%;
+}
+
+footer {
+    background-color: white;
+    border-radius: 5px;
+    display: flex;
+    width: 80%;
+    margin: 1vh auto; 
+    align-items: center;
+}
+
+footer h2 {
+    box-sizing: border-box;
+    width: 25%;
+    text-align: center;
+    margin: 0 1%;
+}
+
+.contact {
+    width: 25%;
+    margin: 1% 0;
+    text-align: center;
+}
+
+.contact p, .contact a {
+    margin: 0;
+    font-size: 0.8rem;
+    font-weight: bold;
+}
+
+.contact img {
+    border-radius: 5px;
+}
